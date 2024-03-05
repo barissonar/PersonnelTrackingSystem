@@ -6,11 +6,12 @@
 
 <h2>System Login Info</h2>
 <p>username: admin <br/> password: 123456</p>
-<h2>Images</h2>
+
 
 <br/>  
 
 <div align="center">
+<h2>Images</h2>   
 <br/><br/><br/><br/>
 <img src="images/1.JPG"/>
 <br/><br/><br/><br/>
